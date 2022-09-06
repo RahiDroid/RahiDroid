@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate developer, currently working at @rtCamp. I do WordPress!
+A passionate developer, currently working at rtCamp. I do WordPress!
 
 
 ## 🌐 Socials:
